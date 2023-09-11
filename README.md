@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm currently a PhD student at the University of Dayton in computer science. If you are interested in my work or have any question feel free to say hi and message me. 👋
 
 <!--
 **DYT-Flyer/DYT-Flyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
